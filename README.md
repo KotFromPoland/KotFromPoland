@@ -13,6 +13,5 @@
 
 
 ## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunderw3k&show_icons=true&count_private=true&theme=great-gatsby)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunderw3k&layout=compact&theme=great-gatsby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KotFromPoland&layout=compact&theme=great-gatsby)
